@@ -1,1 +1,2 @@
 hi, this is in a subrepo.
+Will I see this change if I do a git status from the main repo?
